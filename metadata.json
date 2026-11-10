@@ -1,0 +1,6 @@
+{
+  "name": "FamPay Verify - Instant UPI & FamPay Payment Verification Portal",
+  "description": "Enterprise-grade UPI & FamPay payment gateway and verification platform powered by fampay-verify with dynamic amount matching, QR checkout, and instant IMAP reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
